@@ -1,0 +1,17 @@
+name: Suggest an improvement
+description: Explain what you want to do and what gets in the way.
+title: '[Idea] '
+labels: ['enhancement']
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+    validations:
+      required: true
+  - type: textarea
+    id: improvement
+    attributes:
+      label: What would make it better?
+    validations:
+      required: true

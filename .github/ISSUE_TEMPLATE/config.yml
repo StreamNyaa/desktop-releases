@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability privately
+    url: https://github.com/StreamNyaa/desktop-releases/security/advisories/new
+    about: Do not put sensitive reports or credentials in public Issues.
+  - name: Installation guide
+    url: https://github.com/StreamNyaa/desktop-releases/blob/main/docs/install.md
+    about: Requirements, checksum verification, installation, upgrade, and removal.
