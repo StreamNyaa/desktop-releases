@@ -4,9 +4,9 @@
 
 Browse anime, follow release schedules, and keep your watch list in one Windows app.
 
-**0.1.15 Beta · Windows 10/11 · x64**
+**0.1.16 Beta · Windows 10/11 · x64**
 
-**[Download for Windows](https://github.com/StreamNyaa/desktop-releases/releases/download/v0.1.15-beta.1/StreamNyaa_0.1.15_x64-setup.exe)** · [Installation guide](docs/install.md) · [Website](https://www.streamnyaa.xyz/)
+**[Download for Windows](https://github.com/StreamNyaa/desktop-releases/releases/download/v0.1.16-beta.1/StreamNyaa_0.1.16_x64-setup.exe)** · [Installation guide](docs/install.md) · [Website](https://www.streamnyaa.xyz/)
 
 ## In the app
 
@@ -14,10 +14,11 @@ Browse anime, follow release schedules, and keep your watch list in one Windows 
 - Check Original, Sub, and Dub schedules, including reported delays and date changes.
 - Keep bookmarks, watch history, resume points, and watched/completed status.
 - Choose a source or an episode file from a batch. Play it in the included player or save a download.
+- Watch inside the app. Press F12 for fullscreen, or use Back to Watch to return to the episode page.
 
 ## Install
 
-Download the installer from [Releases](https://github.com/StreamNyaa/desktop-releases/releases/tag/v0.1.15-beta.1), check its SHA-256 against `SHA256SUMS.txt`, then open it and follow the prompts. The player is included.
+Download the installer from [Releases](https://github.com/StreamNyaa/desktop-releases/releases/tag/v0.1.16-beta.1), check its SHA-256 against `SHA256SUMS.txt`, then open it and follow the prompts. The player is included.
 
 The beta installer is **unsigned**. Windows may show an unknown-publisher warning; keep your security software enabled. An x86-64-v3 compatible processor and Microsoft Edge WebView2 Runtime are required. See the [installation guide](docs/install.md) for requirements, checksums, upgrades, and removal.
 

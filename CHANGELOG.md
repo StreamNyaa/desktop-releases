@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.16 Beta · October 29, 2026
+
+- Playback stays inside the StreamNyaa window.
+- F12 toggles fullscreen throughout the app. Escape leaves fullscreen after closing any open player panel.
+- Back to Watch returns to the episode page. Alt+Left works during playback too.
+- Fixed opening local files whose Windows paths contain a special path prefix.
+
 ## 0.1.15 Beta · October 29, 2026
 
 The first public Windows beta.

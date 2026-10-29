@@ -1,0 +1,47 @@
+{
+  "product": "StreamNyaa Desktop",
+  "channel": "beta",
+  "releaseTag": "v0.1.16-beta.1",
+  "version": "0.1.16",
+  "releaseDate": "2026-10-29",
+  "buildDate": "2026-10-29",
+  "sourceRevision": "dfb20ad5ca6ee8096eab562112f48bd998e35e80",
+  "installer": {
+    "file": "StreamNyaa_0.1.16_x64-setup.exe",
+    "bytes": 42528684,
+    "sha256": "7867A839E99545F6EC70741F51060F4E2557EE0BB52E8B1F20FAA6449F361103",
+    "authenticode": "NotSigned"
+  },
+  "resources": [
+    {
+      "file": "d3dcompiler_43.dll",
+      "bytes": 4481992,
+      "sha256": "4B074A3976399DC735484F5D43D04B519B7BDEE8AC719D9AB8ED6BD4E6BE0345"
+    },
+    {
+      "file": "mpv.com",
+      "bytes": 3584,
+      "sha256": "A6C822DB4EA4F4207B963E56EE50A125B5720031ACA22C88EE00524940A1C5AC"
+    },
+    {
+      "file": "mpv.exe",
+      "bytes": 120308736,
+      "sha256": "1645E57569C0AF58A70C61257F3716F2EE6EB31BB170EDC51F3F25A0B8D0D99C"
+    },
+    {
+      "file": "rqbit.exe",
+      "bytes": 13963264,
+      "sha256": "4D4E5F4D81A7C9432BF37F1857E34486C9B1114E258573FC5486FBB1DB18898C"
+    },
+    {
+      "file": "streamnyaa-player.lua",
+      "bytes": 230680,
+      "sha256": "94CD1E67304FF4DDA2918CD3B2CFB982D431D208F408E4BAB2EA4DC08F32BB81"
+    },
+    {
+      "file": "mpv/fonts.conf",
+      "bytes": 2703,
+      "sha256": "F141C1B89B172D22F213531646C21E288F0EBF3EC46484698896E1B33C626756"
+    }
+  ]
+}

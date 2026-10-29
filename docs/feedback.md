@@ -4,7 +4,7 @@ Back up an existing installation first. For playback, use a small release you ha
 
 ## A short first test
 
-1. Install using the [guide](install.md), open the app, and confirm version 0.1.15.
+1. Install using the [guide](install.md), open the app, and confirm version 0.1.16.
 2. Browse Home, open a title, return, and try search. Check long titles and artwork.
 3. Open Schedule. Change days, expand Details, and check that the time/status agrees with the track shown.
 4. Bookmark a title, restart the app, and check that it remains in your library.

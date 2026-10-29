@@ -11,18 +11,18 @@ The player is included. You do not need to install a separate player or torrent 
 
 ## Download and verify
 
-1. Open the [Public Beta 1 release](https://github.com/StreamNyaa/desktop-releases/releases/tag/v0.1.15-beta.1).
-2. Download `StreamNyaa_0.1.15_x64-setup.exe` and `SHA256SUMS.txt` from that release's Assets section. Do not use a reposted installer or an advertisement's download button.
+1. Open the [0.1.16 Beta release](https://github.com/StreamNyaa/desktop-releases/releases/tag/v0.1.16-beta.1).
+2. Download `StreamNyaa_0.1.16_x64-setup.exe` and `SHA256SUMS.txt` from that release's Assets section. Do not use a reposted installer or an advertisement's download button.
 3. In PowerShell, run this from the folder containing the installer:
 
    ```powershell
-   Get-FileHash -LiteralPath '.\StreamNyaa_0.1.15_x64-setup.exe' -Algorithm SHA256
+   Get-FileHash -LiteralPath '.\StreamNyaa_0.1.16_x64-setup.exe' -Algorithm SHA256
    ```
 
 4. The expected SHA-256 is:
 
    ```text
-   10F6D3CBD2B12AEBEF68B279089E727230C8DFC80B5E3A4629EDDD46BD5D3011
+   7867A839E99545F6EC70741F51060F4E2557EE0BB52E8B1F20FAA6449F361103
    ```
 
    If it differs, stop and download the file again from the release. A matching hash confirms that the file matches the published artifact; it does not certify its safety.
@@ -34,6 +34,8 @@ The player is included. You do not need to install a separate player or torrent 
 
 Start with browsing and the schedule before trying playback. Guest use is available; sign in only if you want account features. Select a title and its intended episode, then open Sources. **Use** begins preparation and playback; when a batch needs a file choice, select the correct episode file. Some sources may have no responding peers even when a listing reports seeders.
 
+Playback opens inside StreamNyaa. Press **F12** to enter or leave fullscreen; **Escape** closes an open player panel first, then leaves fullscreen. **Back to Watch** or **Alt+Left** returns to the episode page. Replay and the other player controls stay in the playback view.
+
 Choose a download folder deliberately. Temporary streaming pieces and a saved full release are different things. Allow for the size of the selected media, especially with batches. Review [privacy and network behavior](privacy.md) before torrent playback.
 
 If a window appears to close but the app is still in the notification area, use **Quit StreamNyaa** from its tray menu when you want it fully stopped.
@@ -43,7 +45,7 @@ If a window appears to close but the app is still in the notification area, use 
 1. In StreamNyaa Settings, choose **Export personal backup** and save the file somewhere outside the app's folders. Check that the backup exists. It excludes account credentials and downloaded media; keep your downloaded files separately.
 2. Finish or pause transfers and quit StreamNyaa, including its tray icon and player.
 3. Verify the new installer's checksum, then run it and review the prompts.
-4. Check that the app reports version 0.1.15 and that your library and history are present before continuing normal use.
+4. Check that the app reports version 0.1.16 and that your library and history are present before continuing normal use.
 
 Keep your backup until you are happy with the new version. If you encounter a data or installation error, save the message and report it rather than deleting your history or app data.
 
