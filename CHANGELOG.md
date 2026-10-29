@@ -2,6 +2,9 @@
 
 ## 0.1.16 Beta · October 29, 2026
 
+- Refreshed installer with StreamNyaa branding; the app version remains 0.1.16.
+- Fixed duplicate Continue Watching cards when episodes share a batch torrent.
+- Replaced the top playback pills with a back arrow in the bottom controls.
 - Playback stays inside the StreamNyaa window.
 - F12 toggles fullscreen throughout the app. Escape leaves fullscreen after closing any open player panel.
 - Back to Watch returns to the episode page. Alt+Left works during playback too.

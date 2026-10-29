@@ -1,6 +1,8 @@
 # StreamNyaa 0.1.16 Beta
 
-Playback now stays inside StreamNyaa. F12 switches the whole app to fullscreen, and Back to Watch returns to the episode page without opening another app window.
+Playback stays inside StreamNyaa. F12 switches the app to fullscreen; the back arrow in the bottom controls returns to the episode page.
+
+This refreshed build keeps version **0.1.16**. It fixes repeated Continue Watching cards, removes the fixed top playback buttons, and gives the installer StreamNyaa's own branding. Download the updated installer and checksum together.
 
 **[Download for Windows](https://github.com/StreamNyaa/desktop-releases/releases/download/v0.1.16-beta.1/StreamNyaa_0.1.16_x64-setup.exe)** · [Installation guide](https://github.com/StreamNyaa/desktop-releases/blob/main/docs/install.md)
 

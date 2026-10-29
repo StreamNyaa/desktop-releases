@@ -5,7 +5,7 @@
 - Windows 10 or 11 on a 64-bit Intel/AMD PC.
 - Microsoft Edge WebView2 Runtime. Many Windows installations already include it; if the app cannot open its interface, use [Microsoft's official WebView2 Runtime download](https://developer.microsoft.com/en-us/microsoft-edge/webview2/).
 - An x86-64-v3 compatible processor. An older CPU may open the app but fail when the player starts. This download is for Windows x64, not 32-bit Windows or ARM64.
-- Internet access for metadata, sources, sign-in/sync, and peer playback. Temporary playback and full downloads use disk space and bandwidth; a 40.56 MiB installer is not the total space the app will use.
+- Internet access for metadata, sources, sign-in/sync, and peer playback. Temporary playback and full downloads use disk space and bandwidth; a 40.57 MiB installer is not the total space the app will use.
 
 The player is included. You do not need to install a separate player or torrent client.
 
@@ -22,7 +22,7 @@ The player is included. You do not need to install a separate player or torrent 
 4. The expected SHA-256 is:
 
    ```text
-   7867A839E99545F6EC70741F51060F4E2557EE0BB52E8B1F20FAA6449F361103
+   EDCFB3B5450FB4491BA6ABD2B0B22B7AAA2AF2C909593965F49A2276E1EBD325
    ```
 
    If it differs, stop and download the file again from the release. A matching hash confirms that the file matches the published artifact; it does not certify its safety.
@@ -34,7 +34,7 @@ The player is included. You do not need to install a separate player or torrent 
 
 Start with browsing and the schedule before trying playback. Guest use is available; sign in only if you want account features. Select a title and its intended episode, then open Sources. **Use** begins preparation and playback; when a batch needs a file choice, select the correct episode file. Some sources may have no responding peers even when a listing reports seeders.
 
-Playback opens inside StreamNyaa. Press **F12** to enter or leave fullscreen; **Escape** closes an open player panel first, then leaves fullscreen. **Back to Watch** or **Alt+Left** returns to the episode page. Replay and the other player controls stay in the playback view.
+Playback opens inside StreamNyaa. Press **F12** to enter or leave fullscreen; **Escape** closes an open player panel first, then leaves fullscreen. The back arrow in the bottom controls, or **Alt+Left**, returns to the episode page. Replay and the other player controls stay in the playback view.
 
 Choose a download folder deliberately. Temporary streaming pieces and a saved full release are different things. Allow for the size of the selected media, especially with batches. Review [privacy and network behavior](privacy.md) before torrent playback.
 
