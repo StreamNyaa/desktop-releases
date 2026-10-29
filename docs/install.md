@@ -22,7 +22,7 @@ The player is included. You do not need to install a separate player or torrent 
 4. The expected SHA-256 is:
 
    ```text
-   EDCFB3B5450FB4491BA6ABD2B0B22B7AAA2AF2C909593965F49A2276E1EBD325
+   9D1F3BCEC90D081996C6CDC21E8A3633891194BD7534215497B49C9AB4761134
    ```
 
    If it differs, stop and download the file again from the release. A matching hash confirms that the file matches the published artifact; it does not certify its safety.
@@ -34,7 +34,7 @@ The player is included. You do not need to install a separate player or torrent 
 
 Start with browsing and the schedule before trying playback. Guest use is available; sign in only if you want account features. Select a title and its intended episode, then open Sources. **Use** begins preparation and playback; when a batch needs a file choice, select the correct episode file. Some sources may have no responding peers even when a listing reports seeders.
 
-Playback opens inside StreamNyaa. Press **F12** to enter or leave fullscreen; **Escape** closes an open player panel first, then leaves fullscreen. The back arrow in the bottom controls, or **Alt+Left**, returns to the episode page. Replay and the other player controls stay in the playback view.
+Playback opens inside StreamNyaa. Press **F12** to enter or leave fullscreen; **Escape** closes an open player panel first, then leaves fullscreen. The top-left back arrow, or **Alt+Left**, returns to the episode page. The arrow hides with the controls. Buffering and subtitle loading keep the video in view.
 
 Choose a download folder deliberately. Temporary streaming pieces and a saved full release are different things. Allow for the size of the selected media, especially with batches. Review [privacy and network behavior](privacy.md) before torrent playback.
 

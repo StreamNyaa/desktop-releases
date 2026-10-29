@@ -14,7 +14,7 @@ Browse anime, follow release schedules, and keep your watch list in one Windows 
 - Check Original, Sub, and Dub schedules, including reported delays and date changes.
 - Keep bookmarks, watch history, resume points, and watched/completed status.
 - Choose a source or an episode file from a batch. Play it in the included player or save a download.
-- Watch inside the app. Press F12 for fullscreen, or use Back to Watch to return to the episode page.
+- Watch inside the app. Press F12 for fullscreen, or use the top-left back arrow to return to the episode page.
 
 ## Install
 
