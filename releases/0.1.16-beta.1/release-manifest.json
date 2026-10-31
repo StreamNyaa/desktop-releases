@@ -4,12 +4,12 @@
   "releaseTag": "v0.1.16-beta.1",
   "version": "0.1.16",
   "releaseDate": "2026-10-29",
-  "buildDate": "2026-10-29",
-  "sourceRevision": "85d352284cae4961e9cc8b525426bd332f30192c",
+  "buildDate": "2026-10-31",
+  "sourceRevision": "764fb1432ffcdfb72aeb42756759fc2a9d587926",
   "installer": {
     "file": "StreamNyaa_0.1.16_x64-setup.exe",
-    "bytes": 42553680,
-    "sha256": "9D1F3BCEC90D081996C6CDC21E8A3633891194BD7534215497B49C9AB4761134",
+    "bytes": 42561170,
+    "sha256": "01EB21102547C262D80B2CAA0DCC70218C1BC1ADC99E4164B76D6A0EEBD1FF91",
     "authenticode": "NotSigned"
   },
   "resources": [
@@ -35,8 +35,8 @@
     },
     {
       "file": "streamnyaa-player.lua",
-      "bytes": 232912,
-      "sha256": "AFC5511E18C6C7546F3E81D758300E4478BBEF06496E83D77453DFB004B26A32"
+      "bytes": 235138,
+      "sha256": "894E2D6CDADDC9F37A1B19474447054AEFC228939FF5EAC32B82DA4DEE30CC20"
     },
     {
       "file": "mpv/fonts.conf",
@@ -44,7 +44,7 @@
       "sha256": "F141C1B89B172D22F213531646C21E288F0EBF3EC46484698896E1B33C626756"
     }
   ],
-  "buildRevision": "embedded-player-v3-video-buffering",
+  "buildRevision": "desktop-v4-watched-alerts-browsing-artwork",
   "installerArtwork": [
     {
       "name": "icon.ico",

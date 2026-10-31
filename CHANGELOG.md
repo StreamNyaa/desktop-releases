@@ -1,6 +1,13 @@
 # Changelog
 
-## 0.1.16 Beta · October 29, 2026
+## 0.1.16 Beta · refreshed October 31, 2026
+
+- Episode notifications skip episodes you have already watched.
+- Fixed Notify me for upcoming titles, including titles without an announced date.
+- Going back from a title restores your browsing position and loaded results.
+- Search suggests matching titles as you type.
+- Sharper loading artwork keeps the poster separate from the background.
+- Home does less work between updates, with paused artwork changes when it is out of view.
 
 - Refreshed installer with StreamNyaa branding; the app version remains 0.1.16.
 - Fixed duplicate Continue Watching cards when episodes share a batch torrent.

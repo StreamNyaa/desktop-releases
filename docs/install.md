@@ -5,7 +5,7 @@
 - Windows 10 or 11 on a 64-bit Intel/AMD PC.
 - Microsoft Edge WebView2 Runtime. Many Windows installations already include it; if the app cannot open its interface, use [Microsoft's official WebView2 Runtime download](https://developer.microsoft.com/en-us/microsoft-edge/webview2/).
 - An x86-64-v3 compatible processor. An older CPU may open the app but fail when the player starts. This download is for Windows x64, not 32-bit Windows or ARM64.
-- Internet access for metadata, sources, sign-in/sync, and peer playback. Temporary playback and full downloads use disk space and bandwidth; a 40.57 MiB installer is not the total space the app will use.
+- Internet access for metadata, sources, sign-in/sync, and peer playback. Temporary playback and full downloads use disk space and bandwidth; a 40.59 MiB installer is not the total space the app will use.
 
 The player is included. You do not need to install a separate player or torrent client.
 
@@ -22,7 +22,7 @@ The player is included. You do not need to install a separate player or torrent 
 4. The expected SHA-256 is:
 
    ```text
-   9D1F3BCEC90D081996C6CDC21E8A3633891194BD7534215497B49C9AB4761134
+   01EB21102547C262D80B2CAA0DCC70218C1BC1ADC99E4164B76D6A0EEBD1FF91
    ```
 
    If it differs, stop and download the file again from the release. A matching hash confirms that the file matches the published artifact; it does not certify its safety.

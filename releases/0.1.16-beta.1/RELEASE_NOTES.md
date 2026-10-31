@@ -1,8 +1,13 @@
 # StreamNyaa 0.1.16 Beta
 
-Playback stays inside StreamNyaa. F12 switches the app to fullscreen; the top-left back arrow returns to the episode page and hides with the player controls.
+This refresh keeps version **0.1.16**. Download the updated installer and checksum together.
 
-This update keeps version **0.1.16**. Buffering now shows a small indicator over the video, and loading subtitles no longer brings back the startup artwork. It also includes the Continue Watching fixes and StreamNyaa installer branding. Download the updated installer and checksum together.
+- Episode notifications skip episodes you have already watched, and Notify me works for upcoming titles without a confirmed date.
+- Back restores your browsing position and loaded results after you visit a title.
+- Search suggests matching titles as you type.
+- Loading artwork uses a sharp, proportional poster over the series background. Home also does less work between updates.
+
+Playback stays inside StreamNyaa. F12 switches the app to fullscreen; the top-left back arrow returns to the episode page and hides with the player controls. Buffering and subtitle loading keep the video in view. The Continue Watching fixes and StreamNyaa installer branding are included too.
 
 **[Download for Windows](https://github.com/StreamNyaa/desktop-releases/releases/download/v0.1.16-beta.1/StreamNyaa_0.1.16_x64-setup.exe)** · [Installation guide](https://github.com/StreamNyaa/desktop-releases/blob/main/docs/install.md)
 
