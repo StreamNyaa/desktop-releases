@@ -2,6 +2,10 @@
 
 This refresh keeps version **0.1.16**. Download the updated installer and checksum together.
 
+- Fixed Reconnecting staying visible after video resumes.
+- Subtitle On/Off and imported subtitles survive same-file recovery.
+- Loading art keeps its original detail instead of stretching low-resolution images.
+
 - Episode notifications skip episodes you have already watched, and Notify me works for upcoming titles without a confirmed date.
 - Back restores your browsing position and loaded results after you visit a title.
 - Search suggests matching titles as you type.

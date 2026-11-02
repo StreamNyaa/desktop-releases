@@ -4,12 +4,12 @@
   "releaseTag": "v0.1.16-beta.1",
   "version": "0.1.16",
   "releaseDate": "2026-10-29",
-  "buildDate": "2026-10-31",
-  "sourceRevision": "764fb1432ffcdfb72aeb42756759fc2a9d587926",
+  "buildDate": "2026-11-02",
+  "sourceRevision": "994509bf1f32fac68390bddfd00280d3409a4411",
   "installer": {
     "file": "StreamNyaa_0.1.16_x64-setup.exe",
-    "bytes": 42561170,
-    "sha256": "01EB21102547C262D80B2CAA0DCC70218C1BC1ADC99E4164B76D6A0EEBD1FF91",
+    "bytes": 42554689,
+    "sha256": "E60DE09CA97CA2F65BD355D154DC28164531DCBFBBCF167BBFD14B296301FDDD",
     "authenticode": "NotSigned"
   },
   "resources": [
@@ -35,8 +35,8 @@
     },
     {
       "file": "streamnyaa-player.lua",
-      "bytes": 235138,
-      "sha256": "894E2D6CDADDC9F37A1B19474447054AEFC228939FF5EAC32B82DA4DEE30CC20"
+      "bytes": 239459,
+      "sha256": "5E76C462C92CC187BE2992F6CDBBC5701F53AF4741466FCF05AE265A90890DD9"
     },
     {
       "file": "mpv/fonts.conf",
@@ -44,7 +44,7 @@
       "sha256": "F141C1B89B172D22F213531646C21E288F0EBF3EC46484698896E1B33C626756"
     }
   ],
-  "buildRevision": "desktop-v4-watched-alerts-browsing-artwork",
+  "buildRevision": "desktop-v5-player-recovery-subtitles-artwork",
   "installerArtwork": [
     {
       "name": "icon.ico",
