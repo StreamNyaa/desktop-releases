@@ -22,7 +22,7 @@ The player is included. You do not need to install a separate player or torrent 
 4. The expected SHA-256 is:
 
    ```text
-   01EB21102547C262D80B2CAA0DCC70218C1BC1ADC99E4164B76D6A0EEBD1FF91
+   E60DE09CA97CA2F65BD355D154DC28164531DCBFBBCF167BBFD14B296301FDDD
    ```
 
    If it differs, stop and download the file again from the release. A matching hash confirms that the file matches the published artifact; it does not certify its safety.

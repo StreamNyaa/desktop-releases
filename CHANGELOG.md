@@ -1,6 +1,10 @@
 # Changelog
 
-## 0.1.16 Beta · refreshed October 31, 2026
+## 0.1.16 Beta · refreshed November 2, 2026
+
+- Fixed Reconnecting staying on screen after video resumes.
+- Subtitle On/Off choices survive restarts and stream recovery, including imported subtitle files.
+- Low-resolution loading art keeps its original detail instead of being stretched across the screen.
 
 - Episode notifications skip episodes you have already watched.
 - Fixed Notify me for upcoming titles, including titles without an announced date.
