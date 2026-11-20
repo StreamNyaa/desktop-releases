@@ -12,17 +12,17 @@ The player is included. You do not need to install a separate player or torrent 
 ## Download and verify
 
 1. Open the [0.1.16 Beta release](https://github.com/StreamNyaa/desktop-releases/releases/tag/v0.1.16-beta.1).
-2. Download `StreamNyaa_0.1.16_x64-setup.exe` and `SHA256SUMS.txt` from that release's Assets section. Do not use a reposted installer or an advertisement's download button.
+2. Download `StreamNyaa_0.1.16_x64-tracking-setup.exe` and `SHA256SUMS-tracking.txt` from that release's Assets section. Do not use a reposted installer or an advertisement's download button.
 3. In PowerShell, run this from the folder containing the installer:
 
    ```powershell
-   Get-FileHash -LiteralPath '.\StreamNyaa_0.1.16_x64-setup.exe' -Algorithm SHA256
+   Get-FileHash -LiteralPath '.\StreamNyaa_0.1.16_x64-tracking-setup.exe' -Algorithm SHA256
    ```
 
 4. The expected SHA-256 is:
 
    ```text
-   E60DE09CA97CA2F65BD355D154DC28164531DCBFBBCF167BBFD14B296301FDDD
+   4B503F1761B2CFEFAC46FD85993329CDB12B4760A40FBBFB50270588FFDDCE90
    ```
 
    If it differs, stop and download the file again from the release. A matching hash confirms that the file matches the published artifact; it does not certify its safety.
@@ -33,6 +33,8 @@ The player is included. You do not need to install a separate player or torrent 
 ## First run
 
 Start with browsing and the schedule before trying playback. Guest use is available; sign in only if you want account features. Select a title and its intended episode, then open Sources. **Use** begins preparation and playback; when a batch needs a file choice, select the correct episode file. Some sources may have no responding peers even when a listing reports seeders.
+
+To track completed episodes on MyAnimeList, open **Settings → Tracking → Connect MyAnimeList** and approve access in your browser. If shared sign-in is temporarily unavailable, **Advanced setup** accepts a personal desktop registration. Tracking only advances the episode count when the local history and existing MyAnimeList count support the change.
 
 Playback opens inside StreamNyaa. Press **F12** to enter or leave fullscreen; **Escape** closes an open player panel first, then leaves fullscreen. The top-left back arrow, or **Alt+Left**, returns to the episode page. The arrow hides with the controls. Buffering and subtitle loading keep the video in view.
 

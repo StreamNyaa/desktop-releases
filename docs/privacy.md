@@ -10,6 +10,7 @@ StreamNyaa is a networked desktop app. Installing it does not make torrent traff
 - Signing in sends the information needed to authenticate your account and synchronize supported app data. Normal connection and security records may be kept when you use online features.
 - When signed in, supported account data is synchronized. Watched/title tracking covers all tracked titles; detailed cloud resumes are limited to the 20 most recently played anime. Local full history remains on that device. An older evicted cloud resume cannot restore an entire local archive to a new PC.
 - External trailers, links, and sign-in pages connect to their respective providers when used.
+- Optional MyAnimeList tracking sends title IDs and watched episode counts directly to MyAnimeList after you approve the connection. Windows encrypts the connection credentials on your device. Disconnect from **Settings → Tracking** to stop sending updates.
 
 Do not treat a VPN as a guarantee that a torrent is lawful, correctly labeled, or safe. Use only media you have the right to access and share.
 
